@@ -10,4 +10,6 @@ public class SimpleTests {
     public void failedTest() {
         assert 2 + 2 == 5;
     }
+
+    //comment
 }
